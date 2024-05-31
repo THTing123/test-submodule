@@ -1,0 +1,3 @@
+[submodule "vst_submod"]
+	path = vst_submod
+	url = https://github.com/THTing123/vst_submod.git
